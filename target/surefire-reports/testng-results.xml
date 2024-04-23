@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-23T19:35:03 CET" name="Suite" finished-at="2023-03-23T19:35:10 CET" duration-ms="6546">
+    <groups>
+    </groups>
+    <test started-at="2023-03-23T19:35:03 CET" name="Test" finished-at="2023-03-23T19:35:10 CET" duration-ms="6546">
+      <class name="tPack.ClassOne">
+        <test-method signature="testOneA(java.lang.String)[pri:0, instance:tPack.ClassOne@55b7a4e0]" started-at="2023-03-23T19:35:03 CET" name="testOneA" finished-at="2023-03-23T19:35:10 CET" duration-ms="6504" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.selenium.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneA -->
+        <test-method signature="testOneB(java.lang.String,java.lang.String)[pri:0, instance:tPack.ClassOne@55b7a4e0]" started-at="2023-03-23T19:35:10 CET" name="testOneB" finished-at="2023-03-23T19:35:10 CET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alka@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneB -->
+        <test-method signature="testOneC()[pri:0, instance:tPack.ClassOne@55b7a4e0]" started-at="2023-03-23T19:35:10 CET" name="testOneC" finished-at="2023-03-23T19:35:10 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneC -->
+        <test-method signature="testOneD()[pri:0, instance:tPack.ClassOne@55b7a4e0]" started-at="2023-03-23T19:35:10 CET" name="testOneD" finished-at="2023-03-23T19:35:10 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneD -->
+        <test-method is-config="true" signature="mone()[pri:0, instance:tPack.ClassOne@55b7a4e0]" started-at="2023-03-23T19:35:10 CET" name="mone" finished-at="2023-03-23T19:35:10 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mone -->
+      </class> <!-- tPack.ClassOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
